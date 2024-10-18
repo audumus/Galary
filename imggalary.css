@@ -1,0 +1,22 @@
+h1{
+	color: rgb(150,40,80);
+	font-weight: 50px;
+	text-align: center;
+	text-decoration: underline solid grey;
+	border: 2px solid grey;
+	
+
+}
+
+.imggalary{
+	width: 32%;
+	height: 50%;
+	margin: 2px;
+	padding:5px; 
+	border-radius: 15px;
+
+}
+
+body{
+	background-color: rgba(35,55,75,3);
+}
